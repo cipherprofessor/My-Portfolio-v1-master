@@ -568,6 +568,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                       <h3>Syed Mohsin Bukhari</h3>
+                      <p>Embeded And Software Engineer</p>
                         
                       </div>
                     </div>
@@ -582,6 +583,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Rizwan Yousuf Dar</h3>
+                        <p> Security And Software Engineer</p>
                         
                       </div>
                     </div>
@@ -596,6 +598,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Syed Hussain Razavi</h3>
+                        <p> Content Creator And Hardware Engineer</p>
                         
                       </div>
                     </div>
@@ -610,12 +613,20 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Burhan Showkat</h3>
+                        <p> PCB Desigen And Hardware Engineer</p>
                         
                       </div>
                     </div>
                   </div>
 
-                  <div className="col-md-4 col-sm-5 col-lg-3">
+
+
+
+                 
+
+
+
+                  <div className="col-md-4 col-sm-5 col-lg-4">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
@@ -633,7 +644,30 @@ and extensions of the proposed system.
                     </div>
                   </div>
 
-                  
+
+
+                  <div className="col-md-4 col-sm-5 col-lg-5">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
+                        <img
+                          src="assets/img/service/afshan.jpeg"
+                          alt="mobile-friendly"
+                        />
+                      </div>
+                      <div className="service-bottom">
+                        <h3>Dr. Afshan Amin Khan </h3>
+                        <h>Assistant professor<br></br>
+                        </h>
+                        
+                        <h>Co - Supervisor</h>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+
+
 
 
 
