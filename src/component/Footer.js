@@ -8,7 +8,7 @@ function Footer() {
       <div className="copyright-details">
         
         <div className="copyright">
-          <h3>&copy; {currYear}, Made By  Mohsin Manzoor Bhat.</h3>
+          <h3>&copy; {currYear}, Made By  Mohsin .</h3>
         </div>
         <a
           href="//www.dmca.com/Protection/Status.aspx?ID=4ce89e88-486f-4e19-9159-e412a842118e"

@@ -150,10 +150,10 @@ and extensions of the proposed system.
                       
                       <a
                         className="about-link-1"
-                        href="          "
+                        href="https://drive.google.com/drive/folders/1--1BKuFn5_PYPgVm8hr8f3wLiHhD97jF"
                         target="_blank"
                       >
-                        Demo Video Link
+                        Download Models
                       </a>
                       
                       <a
@@ -161,7 +161,7 @@ and extensions of the proposed system.
                         href="          "
                         target="_blank"
                       >
-                        Demo Video Link
+                        Watch Tutorial Of How To Use
                       </a> 
                     </div>
                   </div>
@@ -188,7 +188,8 @@ and extensions of the proposed system.
                 <div className="col-md-20">
                   <div className="skill-details text-left">
                     <p>
-                    <h2>Workflow of the Fruit Sorting and Grading System.<br /></h2>
+                    <div className="main-title left-title text-left wow fadeIn">
+                    <h3>Workflow of the Fruit Sorting and Grading System.<br /></h3> </div> <br /> 
 1. Fruit Input: Fruits are initially placed on the top-level conveyor of the two-level conveyor system. <br />
 2. Cleaning Section: As the fruits are added to the conveyor, they undergo a cleaning process to remove any dirt or impurities. <br />
 3. Image Acquisition: Above the conveyor, cameras are strategically installed to continuously capture images of the fruits as they progress through the system. <br />
@@ -567,9 +568,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                       <h3>Syed Mohsin Bukhari</h3>
-                        <h>
-                        Embedded System And Software Incharge
-                        </h>
+                        
                       </div>
                     </div>
                   </div>
@@ -583,9 +582,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Rizwan Yousuf Dar</h3>
-                        <h>
-                          Software And Security Incharge
-                        </h>
+                        
                       </div>
                     </div>
                   </div>
@@ -599,9 +596,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Syed Hussain Razavi</h3>
-                        <h>
-                          Research And Content Creation Incharge
-                        </h>
+                        
                       </div>
                     </div>
                   </div>
@@ -615,8 +610,7 @@ and extensions of the proposed system.
                       </div>
                       <div className="service-bottom">
                         <h3>Burhan Showkat</h3>
-                        <h>PCB Design And Structural Incharge
-                        </h>
+                        
                       </div>
                     </div>
                   </div>
