@@ -78,7 +78,7 @@ const FormExample = () => {
                           Visit my
                           <a
                             href="https://drive.google.com/drive/folders/1--1BKuFn5_PYPgVm8hr8f3wLiHhD97jF"
-                            title="Sanajit Jana"
+                            title="Mohsin Mohsin"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
@@ -279,7 +279,7 @@ const FormExample = () => {
                         </li>
                         <li>
                           <a
-                            href="https://dev.to/sanajitjana"
+                            href="https://dev.to/MohsinMohsin"
                             target="_blank"
                             rel="noopener noreferrer"
                           >

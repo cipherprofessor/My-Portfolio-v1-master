@@ -135,7 +135,7 @@ and extensions of the proposed system.
                     <div className="about-image">
                       <img
                         src="assets/img/about-image.jpeg"
-                        alt="sanajit-jana"
+                        alt="Mohsin-Mohsin"
                         className="about-img wow fadeIn"
                       />
                     </div>
@@ -675,7 +675,7 @@ and extensions of the proposed system.
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          href="https://dev.to/MohsinMohsin/what-is-hooks-in-react-js-41l2"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -687,7 +687,7 @@ and extensions of the proposed system.
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/MohsinMohsin/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -710,7 +710,7 @@ and extensions of the proposed system.
                             and hooks is ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/MohsinMohsin/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -723,7 +723,7 @@ and extensions of the proposed system.
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          href="https://dev.to/MohsinMohsin/the-importance-of-ui-ux-software-engineering-1n0n"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -735,7 +735,7 @@ and extensions of the proposed system.
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/MohsinMohsin/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -758,7 +758,7 @@ and extensions of the proposed system.
                             keyboard and the appearance ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/MohsinMohsin/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -771,7 +771,7 @@ and extensions of the proposed system.
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                          href="https://dev.to/MohsinMohsin/form-example-in-laravel-8-45oc"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -783,7 +783,7 @@ and extensions of the proposed system.
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/MohsinMohsin/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -805,7 +805,7 @@ and extensions of the proposed system.
                             create contact-list ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/MohsinMohsin/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -817,7 +817,7 @@ and extensions of the proposed system.
                     </div>
                     <div className="row" style={{ textAlign: "center" }}>
                       <a
-                        href="https://dev.to/sanajitjana"
+                        href="https://dev.to/MohsinMohsin"
                         target="newtab"
                         className="btn btn-warning"
                         style={{
