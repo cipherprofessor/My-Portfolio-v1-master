@@ -28,7 +28,7 @@ const Home = () => {
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana"
+                              href="https://drive.google.com/drive/folders/1--1BKuFn5_PYPgVm8hr8f3wLiHhD97jF"
                               target="newtab"
                             >
                               <i
