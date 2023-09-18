@@ -17,24 +17,15 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
-                          <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-visible">Computer Vision Based System</b>
+                          <b className="is-hidden">Fruit Sorting</b>
+                          <b className="is-hidden">And </b>
+                          <b className="is-hidden">Fruit Grading</b>
+                          <b className="is-hidden">System </b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
                         <ul className="about-social">
-                          <li className="wow fadeIn" data-wow-delay=".4s">
-                            <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-linkedin"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
                               href="https://github.com/sanajitjana"
@@ -44,36 +35,6 @@ const Home = () => {
                                 className="fa fa-github"
                                 aria-hidden="true"
                               ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
-                            <a
-                              href="https://www.instagram.com/sanajitjana01/"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-instagram"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://twitter.com/sanajitjana01"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-twitter"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay="1s">
-                            <a
-                              href="https://dev.to/sanajitjana"
-                              target="newtab"
-                            >
-                              <i className="fa fa-book" aria-hidden="true"></i>
                             </a>
                           </li>
                         </ul>
@@ -97,19 +58,21 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>What I do</h3>
+                      <h3>About Project</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                      The computer vision-based fruit sorting and grading system is an innovative solution that aims to automate the process of fruit sorting and grading using computer
+vision techniques. This project report provides a detailed overview of the design
+and implementation of a fruit sorting and grading system using computer vision
+algorithms. The report begins with an introduction to the problem of fruit sorting
+and grading and its importance in the agricultural industry. It then provides a comprehensive literature survey of the existing fruit sorting and grading systems and
+the computer vision techniques used in these systems. The methodology section of
+the report describes the hardware and software components of the proposed system,
+including the image acquisition and processing units, the deep learning models used
+for fruit recognition, and the sorting and grading algorithms. The report also discusses the evaluation metrics used to assess the performance of the proposed system
+and presents the results of the experiments conducted to validate the system’s effectiveness. The future work section of the report outlines the potential improvements
+and extensions of the proposed system.
                       </p>
                     </div>
                   </div>
@@ -121,10 +84,10 @@ const Home = () => {
                         className="fa fa-pencil-square-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Working Hard</h3>
+                      <h3>Fast</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Always believe in hard-work in my profession</p>
+                      <p>Faster Than Tradational Sorting And Grading Systems</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -133,10 +96,10 @@ const Home = () => {
                         className="fa fa-file-image-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>UI/UX Design</h3>
+                      <h3>User Friendly HMI</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p>Creative User Friendly App To Control The System Using Nextion HMI</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -145,19 +108,19 @@ const Home = () => {
                         className="fa fa-globe love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Web Design</h3>
+                      <h3>Error Free</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Passionate about Web Design from start</p>
+                      <p>Used Self Trained Machine Learning Models To Reduces The Errors</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Web Development</h3>
+                      <h3>Modular And Portable</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Created all types of modern web development.</p>
+                      <p>Our Project Is Modular And Portable For Flexible And Convenient Deployment</p>
                     </div>
                   </div>
                 </div>
@@ -171,7 +134,7 @@ const Home = () => {
                   <div className="col-md-4 col-sm-6 col-xs-12 about-col">
                     <div className="about-image">
                       <img
-                        src="assets/img/about-image.jpg"
+                        src="assets/img/about-image.jpeg"
                         alt="sanajit-jana"
                         className="about-img wow fadeIn"
                       />
@@ -180,104 +143,32 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>How It Works</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
-                      <p className="wow fadeIn">
-                        I am a web developer from Kolkata, India. I enjoy
-                        building everything from small business sites to rich
-                        interactive web apps. if you are a business seeking a
-                        web presence or an employer looking to hire, you can get
-                        in touch with me{" "}
-                        <a className="underline2" href="#contact">
-                          {" "}
-                          here.
-                        </a>{" "}
-                        I design and build digital products with simple and
-                        beautiful code. I specialize in custom web theme
-                        development and love what I do.
-                        <br />
-                        <br />
-                        Since beginning my journey as a web developer in my
-                        college days, I've done remote work for agencies,
-                        consulted for startups, and collaborated with talented
-                        people to create digital products for both business and
-                        consumer use. I'm quietly confident, naturally curious,
-                        and perpetually working on improving my chops one design
-                        problem at a time.
-                      </p>
+                      
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="          "
                         target="_blank"
                       >
-                        See Resume
+                        Demo Video Link
                       </a>
-                      <a className="about-link-2" href="#contact">
-                        Hire Me
-                      </a>
+                      
+                      <a
+                        className="about-link-1"
+                        href="          "
+                        target="_blank"
+                      >
+                        Demo Video Link
+                      </a> 
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="work-counter text-center">
-              <div className="counter">
-                <div className="container">
-                  <div className="row wow fadeIn">
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-pencil-square-o stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0021</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Web Design Completed</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-crop stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0040</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>UI/UX Design Done</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-bolt stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0015</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Website Created</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-coffee stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0085</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Cups Coffee Taken</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
 
@@ -288,34 +179,31 @@ const Home = () => {
             <div className="container">
               <div className="row">
                 <div className="col-md-12">
-                  <div className="main-title text-center wow fadeIn">
-                    <h3>My Skill</h3>
-                    <div className="underline1"></div>
-                    <div className="underline2"></div>
-                    <p>
-                      I value simple content structure, clean design patterns,
-                      and thoughtful interactions.
-                    </p>
-                  </div>
+                  
+
+                  
                 </div>
               </div>
               <div className="row love-row wow fadeIn">
-                <div className="col-md-6">
+                <div className="col-md-20">
                   <div className="skill-details text-left">
                     <p>
-                      UI/UX involves planning and iterating a site's structure
-                      and layout. Once the proper information architecture is in
-                      place, I design the visual layer to create a beautiful
-                      user experience. Front End Development is building out the
-                      visual components of a website. Using HTML, CSS, and
-                      Javascript, I build fast, interactive websites. This also
-                      may include a CMS, apis, or other integrations. The work
-                      that I am most interested in is 0-1 work (helping you get
-                      your idea into the world).
+                    <h2>Workflow of the Fruit Sorting and Grading System.<br /></h2>
+1. Fruit Input: Fruits are initially placed on the top-level conveyor of the two-level conveyor system. <br />
+2. Cleaning Section: As the fruits are added to the conveyor, they undergo a cleaning process to remove any dirt or impurities. <br />
+3. Image Acquisition: Above the conveyor, cameras are strategically installed to continuously capture images of the fruits as they progress through the system. <br />
+4. Image Processing: The acquired images undergo preprocessing to enhance their quality by eliminating noise or any undesirable artifacts, ensuring clear and accurate fruit detection. <br />
+5. Object Detection: Employing advanced computer vision algorithms, the system detects and precisely localizes the fruits in the captured images. This step is accomplished through the use of sophisticated object detection models. <br />
+6. Feature Extraction: Following successful object detection, relevant visual features are extracted from the identified fruit objects. These features encompass aspects such as color, shape, and size, which are crucial for subsequent classification. <br />
+7. Sorting: The system utilizes deep learning models to classify the fruits based on their visual features. These models adhere to predefined criteria, enabling accurate and efficient sorting of the fruits into distinct categories. <br />
+
+8. Grading and Conveying: Based on the classification results, the sorted fruits are directed to their respective bins using the bottom-level conveyor of the system. The grading process ensures that each fruit is placed in the appropriate bin, taking into account its quality and characteristics. <br />
+
+9. Output: Once the sorting and grading are completed, the fruits emerge from the system ready for further processing, packaging, or distribution. The system ensures that only fruits meeting specific criteria are sent for further downstream processes, ensuring high-quality final products. <br />
+                        <br />
                     </p>
-                  </div>
-                </div>
-                <div className="col-md-6">
+                
+                {/* <div className="col-md-6">
                   <div className="skill-details">
                     <div className="content">
                       <div className="col">
@@ -339,11 +227,13 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
         </div>
+        </div>
+                </div>
 
         {/* <!-- ================================ RESUME =============================== --> */}
 
@@ -354,12 +244,11 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>Educational Story</h3>
+                      <h3>Technology</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I like to code things from scratch, and enjoy bringing
-                        ideas to life in the browser.
+                        Below are some of the technologies we have used in our project
                       </p>
                     </div>
                   </div>
@@ -369,17 +258,14 @@ const Home = () => {
                     <div className="resume-details" data-wow-delay=".2s">
                       <div className="resume-hover"></div>
                       <div className="resume-main">
-                        <i
-                          className="fa fa-home resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>School</h3>
-                        <h2>2010-2017</h2>
+                        
+                        <h3>Machine Learning</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Completed my school life from Haludbari High School
-                          (H.S.), Khejuri, West Bengal, India.
+                        Deployed Trained Models on Different Devices With An Average Delay of 0.01s
+                        The Machine Learning And AI Components Of Our Project Are The Driving Force Behind Its Efficiency And Accuracy. By Employing Advanced Algorithms And Deep Learning Techniques, Our System Can Intelligently Identify
+                         And Categorize Fruits Based On Size, Shape, And Quality.
                         </p>
                       </div>
                     </div>
@@ -388,25 +274,14 @@ const Home = () => {
                     <div className="resume-details" data-wow-delay=".3s">
                       <div className="resume-hover"></div>
                       <div className="resume-main">
-                        <i
-                          className="fa fa-graduation-cap resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        
+                        <h3>Embeded System</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Achieved my Graduation Degree from{" "}
-                          <a
-                            href="https://www.cclms.org/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
-                          </a>
-                          , Contai, West Bengal, India.
+                        We Connected Different Sensors And Actuators With Multiple Arduino Nano Boards. Each Arduino Nano Board Acts As The Control Unit For Its Respective Component.
+                        The Arduino Mega Communicates With The Sensors And Actuators Through The Nextion HMI, Allowing Us To Interact With And Control The Entire System Seamlessly.
+                        
                         </p>
                       </div>
                     </div>
@@ -415,30 +290,20 @@ const Home = () => {
                     <div className="resume-details" data-wow-delay=".4s">
                       <div className="resume-hover"></div>
                       <div className="resume-main">
-                        <i
-                          className="fa fa-graduation-cap resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Training &amp; Skill</h3>
-                        <h2>2022-2022</h2>
+                        
+                        <h3>Structural Systems</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Currently learning Full-Stack Web Development from{" "}
-                          <a
-                            href="https://masaischool.com/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Masai School
-                          </a>
-                          , Bengaluru, India.
+                        The Structure System Of Our Project Is Designed With A Focus On Stability, Efficiency And Precision.
+                        We Have Carefully Selected And Integrated Various Structural Elements, Including Mild Steel 18 Gauge & 
+                        T-Slot Aluminum Extrusions To Ensure Optimal Support And Load Distribution For The Entire Project.
                         </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="row main-row wow fadeIn">
+                {/* <div className="row main-row wow fadeIn">
                   <div className="col-md-12">
                     <div className="main-title text-center">
                       <h3>Working Experience</h3>
@@ -450,8 +315,8 @@ const Home = () => {
                       </p>
                     </div>
                   </div>
-                </div>
-                <div className="row love-row">
+                </div> */}
+                {/* <div className="row love-row">
                   <div className="col-md-6 col-sm-12">
                     <div className="exp-details" data-wow-delay=".2s">
                       <div className="exp-hover"></div>
@@ -509,7 +374,7 @@ const Home = () => {
                         </p>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                   {/* <div className="col-md-4 col-sm-4">
                     <div className="exp-details" data-wow-delay=".4s">
                       <div className="exp-hover"></div>
@@ -672,266 +537,127 @@ const Home = () => {
 
         {/* <!-- ============================================== SERVICE ===================================================== --> */}
 
+
         <div id="service">
           <div className="service-content">
             <div className="service-grid text-center">
               <div className="container">
                 <div className="row">
-                  <div className="col-md-12">
+                  <div className="col-md-12 ">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>Service List</h3>
+                      <h3>About group</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I always want to make things that make a difference.
+                        We always want to make things that make a difference.
                       </p>
                     </div>
                   </div>
                 </div>
+                  
+
                 <div className="row love-row wow fadeIn">
-                  <div className="col-md-4 col-sm-6">
+                  <div className="col-md-4 col-sm-5 col-lg-3 ">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/design-development.jpg"
+                          src="assets/img/service/design-development.jpeg"
                           alt="design-development"
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-edit service-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Design + Development</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Clean, modern designs - optimized for performance,
-                          search engines, and converting users to customers.
-                        </p>
+                      <h3>Syed Mohsin Bukhari</h3>
+                        <h>
+                        Embedded System And Software Incharge
+                        </h>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-6">
+                  <div className="col-md-4 col-sm-5 col-lg-3">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/e-commarce.jpg"
+                          src="assets/img/service/e-commarce.jpeg"
                           alt="e-commarce"
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-cart-plus exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>eCommerce</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Integration of eCommerce platforms, payment gateways,
-                          custom product templates, and more.
-                        </p>
+                        <h3>Rizwan Yousuf Dar</h3>
+                        <h>
+                          Software And Security Incharge
+                        </h>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-6">
+                  <div className="col-md-4 col-sm-5 col-lg-3">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/analytics.jpg"
+                          src="assets/img/service/analytics.jpeg"
                           alt="analytics"
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-tachometer service-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Analytics</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Get insights into who is browsing your site so that
-                          you can make smarter business decisions.
-                        </p>
+                        <h3>Syed Hussain Razavi</h3>
+                        <h>
+                          Research And Content Creation Incharge
+                        </h>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-6">
+                  <div className="col-md-4 col-sm-5 col-lg-3">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/mobile-friendly.jpg"
+                          src="assets/img/service/mobile-friendly.jpeg"
                           alt="mobile-friendly"
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-desktop exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Mobile-friendly</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          A responsive design makes your website accessible to
-                          all users, regardless of their device.
-                        </p>
+                        <h3>Burhan Showkat</h3>
+                        <h>PCB Design And Structural Incharge
+                        </h>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-6">
+
+                  <div className="col-md-4 col-sm-5 col-lg-3">
                     <div className="service-details" data-wow-delay=".1s">
                       <div className="service-head">
                         <img
-                          src="assets/img/service/website-audit.jpg"
-                          alt="website-audit"
+                          src="assets/img/service/liyaqat.jpeg"
+                          alt="mobile-friendly"
                         />
                       </div>
                       <div className="service-bottom">
-                        <i
-                          className="fa fa-search exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Website Rank</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Looking to improve your page performance, SEO, or user
-                          experience? Request a free site audit.
-                        </p>
+                        <h3>Dr. Liyaqat Nazir</h3>
+                        <h>Assistant professor<br></br>
+                        </h>
+                        
+                        <h>Project Supervisor</h>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-6">
-                    <div className="service-details" data-wow-delay=".1s">
-                      <div className="service-head">
-                        <img
-                          src="assets/img/service/content-management.jpg"
-                          alt="content-management"
-                        />
-                      </div>
-                      <div className="service-bottom">
-                        <i
-                          className="fa fa-file exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Content Management</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Custom theme and plugin development. Easily update
-                          site content with knowledge of powerful code.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
+
+                  
+
+
+
+
+
+
                 </div>
               </div>
             </div>
-            <div className="testimonial">
-              <div className="testimonial-content">
-                <div className="testimonial-grid">
-                  <div className="container">
-                    <div className="row">
-                      <div className="col-md-12">
-                        <div className="main-title text-center wow fadeIn">
-                          <h3>Testimonials</h3>
-                          <div className="underline1"></div>
-                          <div className="underline2"></div>
-                          <p>
-                            People I've worked with have said some nice things
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="testimonial-details">
-                    <section id="carousel">
-                      <div className="container">
-                        <div className="row">
-                          <div className="col-md-8 col-md-offset-2">
-                            <div className="quote">
-                              <i className="fa fa-quote-left fa-4x"></i>
-                            </div>
-                            <div
-                              className="carousel slide"
-                              id="fade-quote-carousel"
-                              data-ride="carousel"
-                              data-interval="3000"
-                            >
-                              <ol className="carousel-indicators">
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="0"
-                                  className="active"
-                                ></li>
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="1"
-                                ></li>
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="2"
-                                ></li>
-                              </ol>
-                              <div className="carousel-inner">
-                                <div className="active item">
-                                  <blockquote>
-                                    <p>
-                                      “Sanajit was a real pleasure to work with
-                                      and we look forward to working with him
-                                      again. He’s definitely the kind of
-                                      developer you can trust with a project
-                                      from start to finish.”
-                                      <br />
-                                      <span>Ishrak Chaudhury</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “Sanajit's a clear communicator with the
-                                      tenacity and confidence to really dig in
-                                      to tricky design scenarios and the
-                                      collaborative friction that's needed to
-                                      produce excellent work.”
-                                      <br />
-                                      <span>Kamrul Roy</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “Sanajit has done a fantastic job overall.
-                                      Not only the site is to design, but the
-                                      code is also very clean and slick. Love
-                                      the way he achieved the translations
-                                      portion of the site.”
-                                      <br />
-                                      <span>Shahadat Mahapatra</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </div>
-              </div>
-            </div>
+
+            
+            
           </div>
         </div>
-
+      
         {/* <!-- ================================ BLOG ========================== --> */}
 
-        <div id="blog">
+        {/* <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
               <div className="container">
@@ -1116,7 +842,19 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
+
+
+
+
+
+
+
+
+
+
+
+
 
         {/* <!-- ================================ CONTACT ========================== --> */}
 
@@ -1128,11 +866,11 @@ const Home = () => {
                   <div className="row">
                     <div className="col-md-12 col-sm-12">
                       <div className="main-title text-center wow fadeIn">
-                        <h3>Contact Me</h3>
+                        <h3>Contact Us</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I’m always open to discussing product design work or
+                          We are always open to discussing product design work or
                           partnership opportunities.
                         </p>
                       </div>
@@ -1263,7 +1001,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>Islamic University Awantipora</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1012,15 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href=""
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          visionaryfruitsort@gmail.com
+                          
                         </a>
                       </div>
                     </div>
@@ -1293,36 +1032,27 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:8372876775"
+                          href="tel:849100275"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +91 849100275
                         </a>
                       </div>
                     </div>
-                    <div className="col-md-3 col-sm-6 contact-colamn">
-                      <div className="contact-col-info" data-wow-delay=".6s">
-                        <i
-                          className="fa fa-television contact-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
-                      </div>
-                    </div>
+                    
                   </div>
                 </div>
-                <div class="container-fluid map-col">
+                {/* <div class="container-fluid map-col">
                   <div class="col-md-12 col-sm-12 map-col">
                     <div class="google-maps">
                       <div class="map-wrap">
                         <iframe
                           title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
+                          src="https://goo.gl/maps/42i2j8qECz9h74FE8"
                           width="100%"
                           height="450"
                           style={{ border: "0" }}
@@ -1331,16 +1061,39 @@ const Home = () => {
                           referrerpolicy="no-referrer-when-downgrade"
                         ></iframe>
                       </div>
-                    </div>
+                    </div> */}
+
+
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
+      
+
+
+
     </React.StrictMode>
   );
 };
+
+
+function Home1() {
+  return (
+    <div>
+      <iframe
+        src="https://www.chatnode.ai/embed/2836d5db54246999"
+        width="100%"
+        height="700"
+        style={{ visibility: 'hidden', border: 'none' }}
+        onLoad={() => {
+          // Make the iframe visible when it's loaded
+          document.querySelector('iframe').style.visibility = 'visible';
+        }}
+      ></iframe>
+    </div>
+  );
+}
+
+
 
 export default Home;
